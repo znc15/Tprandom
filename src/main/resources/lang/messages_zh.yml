@@ -1,0 +1,17 @@
+#
+#  ______                           __
+# /_  __/___  _________ _____  ____/ /___  ____ ___
+#  / / / __ \/ ___/ __ `/ __ \/ __  / __ \/ __ `__ \
+# / / / /_/ / /  / /_/ / / / / /_/ / /_/ / / / / / /
+#/_/ / .___/_/   \__,_/_/ /_/\__,_/\____/_/ /_/ /_/
+#   /_/
+#
+#Version 1.0.3
+commands:
+  only-player: "这个命令只能由玩家使用。"
+  countdown-message: "开始传送，倒计时 {countdown} 秒钟..."
+  teleport-cancelled: "您移动了，已取消随机传送。"
+  teleport-success: "随机传送成功，当前位置为：{location}"
+  bossbar-countdown: "传送倒计时：{countdown} 秒"
+  no-permission: "你没有权限执行这个命令。"
+  reload-success: "配置文件和语言文件已重新加载。"

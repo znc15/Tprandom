@@ -1,0 +1,15 @@
+name: Tprandom
+version: 1.0.3
+description: 一个简单的插件，用于将玩家传送到随机位置。
+main: com.littlesheep.tprandom.Main
+commands:
+  tpr:
+    description: 传送到一个随机位置。
+    usage: /<command>
+permissions:
+  tpr.use:
+    description: 允许使用 /tpr 命令进行随机传送。
+    default: true
+  tpr.reload:
+    description: 允许重新加载插件的配置和语言文件。
+    default: op
